@@ -1,0 +1,2 @@
+Este archivo es temporal para forzar un nuevo despliegue.
+Fecha: 2025-09-18
