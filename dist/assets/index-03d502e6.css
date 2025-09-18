@@ -1,0 +1,1 @@
+@tailwind base;@tailwind components;@tailwind utilities;body{font-family:Poppins,sans-serif;background-color:#111827}.fade-in-section{opacity:0;transform:translateY(20px);transition:opacity .6s ease-out,transform .6s ease-out}.fade-in-section.is-visible{opacity:1;transform:translateY(0)}
